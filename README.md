@@ -79,7 +79,7 @@ return 0;
 }
 ~~~
 ## OUTPUT 
-<img width="1796" height="911" alt="Screenshot 2025-09-12 101115" src="https://github.com/user-attachments/assets/29e0e615-c45e-4278-8e81-a18502ac387b" />
+<img width="1918" height="970" alt="Screenshot 2025-09-12 102706" src="https://github.com/user-attachments/assets/fd7feea7-221a-4854-afe6-c6a52e7bc942" />
 
 
 ## RESULT
