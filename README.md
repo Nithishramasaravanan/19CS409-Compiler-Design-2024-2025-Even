@@ -79,7 +79,8 @@ return 0;
 }
 ~~~
 ## OUTPUT 
-![Screenshot 2025-04-18 213526](https://github.com/user-attachments/assets/b4e5b417-56a9-481f-b17c-6631d3941402)
+<img width="1796" height="911" alt="Screenshot 2025-09-12 101115" src="https://github.com/user-attachments/assets/29e0e615-c45e-4278-8e81-a18502ac387b" />
+
 
 ## RESULT
 The program to implement a symbol table is executed and the output is verified.
